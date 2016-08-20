@@ -16,6 +16,7 @@
 		F81BEC8C1D66F537004C918D /* SQLiteDataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = F81BEC8B1D66F537004C918D /* SQLiteDataStore.swift */; };
 		F81BEC8E1D66F81A004C918D /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F81BEC8D1D66F81A004C918D /* DataModel.swift */; };
 		F81BEC901D66FD59004C918D /* DataHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F81BEC8F1D66FD59004C918D /* DataHelper.swift */; };
+		F83996F51D67E73A00E0C099 /* DataTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = F83996F41D67E73A00E0C099 /* DataTypes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		F81BEC8B1D66F537004C918D /* SQLiteDataStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SQLiteDataStore.swift; sourceTree = "<group>"; };
 		F81BEC8D1D66F81A004C918D /* DataModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
 		F81BEC8F1D66FD59004C918D /* DataHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataHelper.swift; sourceTree = "<group>"; };
+		F83996F41D67E73A00E0C099 /* DataTypes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataTypes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				F81BEC8B1D66F537004C918D /* SQLiteDataStore.swift */,
 				F81BEC8D1D66F81A004C918D /* DataModel.swift */,
 				F81BEC8F1D66FD59004C918D /* DataHelper.swift */,
+				F83996F41D67E73A00E0C099 /* DataTypes.swift */,
 			);
 			path = SQLiteSwift;
 			sourceTree = "<group>";
@@ -223,6 +226,7 @@
 				F81BEC7C1D66F415004C918D /* ViewController.swift in Sources */,
 				F81BEC8E1D66F81A004C918D /* DataModel.swift in Sources */,
 				F81BEC8C1D66F537004C918D /* SQLiteDataStore.swift in Sources */,
+				F83996F51D67E73A00E0C099 /* DataTypes.swift in Sources */,
 				F81BEC7A1D66F415004C918D /* AppDelegate.swift in Sources */,
 				F81BEC901D66FD59004C918D /* DataHelper.swift in Sources */,
 			);
