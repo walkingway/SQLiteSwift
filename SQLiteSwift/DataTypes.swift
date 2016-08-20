@@ -118,6 +118,11 @@ struct PlayerBridge {
     
     
     static func toPlayer(playerData: PlayerData) -> Player {
-        return Player(playerId: playerData.playerId, firstName: playerData.firstName, lastName: playerData.lastName, number: playerData.number, position: playerData.position, teamId: playerData.teamId)
+        return Player(playerId: playerData.playerId,
+                      firstName: playerData.firstName,
+                      lastName: playerData.lastName,
+                      number: playerData.number,
+                      position: playerData.position,
+                      teamId: playerData.teamId)
     }
 }
